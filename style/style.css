@@ -1,0 +1,6 @@
+.centered {
+    position: fixed; /* or absoute */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Otherwise the start of the div would be centered not the div */
+  }
