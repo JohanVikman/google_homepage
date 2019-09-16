@@ -4,3 +4,28 @@
     left: 50%;
     transform: translate(-50%, -50%); /* Otherwise the start of the div would be centered not the div */
   }
+
+  .font {
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .search_buttons {
+    text-align: center;
+  }
+
+  .alt_lang {
+      font-size: small;
+      text-align: center;
+  }
+
+  .search_field {
+      text-align: center;
+  }
+
+  input {
+      border-radius: 50px;
+  }
+
+  button {
+      border-radius: 5px;
+  }
