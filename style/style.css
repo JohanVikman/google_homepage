@@ -22,6 +22,34 @@
       text-align: center;
   }
 
+  .navbar_top {
+      float: right;
+  }
+
+
+  .navbar_top ul li {
+    display: inline;
+  }
+
+  .navbar_top ul li a{
+    color: grey;
+    text-decoration: none;
+    font-size: small;
+
+  }
+
+  .navbar_top ul li a:hover {
+    text-decoration: underline;
+  }
+  
+ 
+  .navbar_top ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+  }
+
   input {
       border-radius: 50px;
   }
